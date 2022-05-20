@@ -32,7 +32,7 @@ If a price is entered that has no entry in the csv, the quantity shouldn't be mo
 
 ## Requirements
 
-Please clone this repository and submit the code in your favourite programming language with a documentation of how to test the application.
+Please __clone__ and create your own copy of this repository. Submit the code in your favourite programming language with a documentation of how to test the application.
 If possible, it would be nice if you choose Java, Javascript, Typescript, Python or PHP.
 
 **Please don't invest more time in this task. If you're not able to solve this task in the given time please prepare some slides which contain:**
