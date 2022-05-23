@@ -1,5 +1,9 @@
 # Software engineer application task
 
+## ATTENTION
+__Please don’t fork this repository.__
+If you fork the repository, you’re responsible if someone brings you in connection with the application process. It’s your own risk.
+
 ## Problem
 
 We want you to solve the following problem within max. 4 hours of work.
