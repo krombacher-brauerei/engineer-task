@@ -20,7 +20,7 @@ In the ```prices-quantity.csv``` are combinations of **prices to quantity** and 
 
 Your challenge is to build an application where it is possible to enter a price and a quantity. The application should check if the entered quantity is plausible which means for the example above, that if you enter ```999, 1``` the answer should be 
 
-```The provided quantity fits the expecation with a safety of N percent```
+```The provided quantity fits the expectation with a safety of N percent```
 
 If a price-quantity pair is provided that does not have the highest frequency, the application should adjust the given quantity to match the one with the highest occurence, if the relative frequency of the highest occurence is above 80%. The response should be:
 
